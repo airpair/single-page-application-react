@@ -1,6 +1,6 @@
 `The React framework has very clearly been developed to take advantage of recent advantages in the Javascript language ecosystem (ES2015). This gives it a clear edge over most of the competition. On top of that it provides a very elegant way to write complex components in a maintainable fashion. This article will attempt to provide an explanation and an example to get you going on your react journey.`
 
-# Building a Single Page application with Reusable Components in React using Redux, Immutable, and ES6
+# ReactJS Reusable Components using Redux and Immutable
 
 ## 1. The unique challenges of client side development
 There are well established practices for reusing and sharing serverside code. Very frequently however, client side code is written in a slapdash, ad-hoc manner, with no real reuse built into the process. It is frequently either a rigid, static unit fulfilling a concrete problem, or an illegible mess of code reflection and metaprogramming. 
